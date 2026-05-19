@@ -1,0 +1,5 @@
+﻿  地雷.cpp
+D:\地雷\地雷.cpp(336,62): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  地雷.vcxproj -> D:\地雷\x64\Debug\地雷.exe
+  D:\地雷\packages\SFML-cpp.redist.2.5.1.1\build\native\bin\x64\Debug\openal32.dll
+  已複製 1 個檔案
