@@ -1,0 +1,30 @@
+# Visual Studio 暫存與快取
+.vs/
+*.user
+*.aps
+*.suo
+*.xsd
+*.opensdf
+*.sdf
+*.pidb
+*.glo
+*.vshost.*
+
+# 編譯產物目錄
+Debug/
+Release/
+x64/
+
+# 特定二進位與暫存副檔名
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.recipe
+*.ipdb
+*.iobj
+
+# 本地產生的資料庫
+*.db

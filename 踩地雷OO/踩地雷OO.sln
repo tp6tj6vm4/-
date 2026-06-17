@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "踩地雷OO", "踩地雷OO.vcxproj", "{94840976-1292-4A94-8B5B-172DB8E6683C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "方案項目", "方案項目", "{1297210F-9083-48D4-B449-4A31CA317440}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94840976-1292-4A94-8B5B-172DB8E6683C}.Debug|x64.ActiveCfg = Debug|x64
+		{94840976-1292-4A94-8B5B-172DB8E6683C}.Debug|x64.Build.0 = Debug|x64
+		{94840976-1292-4A94-8B5B-172DB8E6683C}.Debug|x86.ActiveCfg = Debug|Win32
+		{94840976-1292-4A94-8B5B-172DB8E6683C}.Debug|x86.Build.0 = Debug|Win32
+		{94840976-1292-4A94-8B5B-172DB8E6683C}.Release|x64.ActiveCfg = Release|x64
+		{94840976-1292-4A94-8B5B-172DB8E6683C}.Release|x64.Build.0 = Release|x64
+		{94840976-1292-4A94-8B5B-172DB8E6683C}.Release|x86.ActiveCfg = Release|Win32
+		{94840976-1292-4A94-8B5B-172DB8E6683C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D6A6E9B-4C67-462F-A63F-CF3FA2BF7DA4}
+	EndGlobalSection
+EndGlobal
